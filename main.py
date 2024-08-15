@@ -64,3 +64,6 @@ if __name__ == "__main__":
     root.geometry("300x200")
     player = MusicPlayer(root)
     root.mainloop()
+
+def new():
+    pass
