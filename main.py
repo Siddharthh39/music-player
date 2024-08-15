@@ -65,5 +65,3 @@ if __name__ == "__main__":
     player = MusicPlayer(root)
     root.mainloop()
 
-def new():
-    pass
